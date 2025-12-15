@@ -1,7 +1,3 @@
-# RNN-Stock-Price
-RNN 계열 모델을 활용한 주가 예측 프로젝트
-
-
 # 📈 KOSPI Stock Price Prediction using RNN & LSTM
 
 딥러닝 모델(RNN, LSTM)을 활용하여 KOSPI 종가(Close Price)를 예측하는 프로젝트입니다. 시계열 데이터의 특성을 반영하여 과거 데이터를 기반으로 미래의 주가를 예측하는 실험을 진행했습니다.
